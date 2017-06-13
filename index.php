@@ -1,3 +1,3 @@
 <?
-echo "Hello world, I love you.";
+echo "Hello world!";
 ?>
